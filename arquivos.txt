@@ -1,0 +1,22 @@
+{
+  "reservas": [
+    {
+      "nome": "KAUA",
+      "cpf": "84027377060",
+      "poltrona": "A1",
+      "ticket": "L59MZM"
+    },
+    {
+      "nome": "KETTLYN",
+      "cpf": "26651423096",
+      "poltrona": "A2",
+      "ticket": "D5HQEP"
+    },
+    {
+      "nome": "LEANDRO",
+      "cpf": "59404978027",
+      "poltrona": "A3",
+      "ticket": "TWPDES"
+    }
+  ]
+}
